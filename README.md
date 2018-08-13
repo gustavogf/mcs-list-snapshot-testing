@@ -1,4 +1,6 @@
-# vue-snapshot-testing
+## MCs List
+Mini projeto utilizado na minha lightning talk no front in vale 2018.
+Slides: https://speakerdeck.com/gustavogf/testando-componentes-mais-rapido-que-miojo
 
 ## Project setup
 ```

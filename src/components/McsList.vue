@@ -43,7 +43,7 @@ export default {
 <style scoped>
 .list {
   list-style: none;
-  margin:  0 auto;
+  margin: 0 auto;
   max-width: 300px;
   padding-left: 0;
 }
