@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`McsList.vue Renders filtered list 1`] = `
+<div>
+  <ul class="list">
+    <li class="list__item">Kekel</li>
+    <li class="list__item">Kevinho</li>
+  </ul>
+</div>
+`;
